@@ -64,7 +64,6 @@ Skilled in designing reproducible workflows, automating analyses using scripting
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hey-saurabh&show_icons=true&theme=default)
 -->
----
 
 ## 📫 Contact
 
